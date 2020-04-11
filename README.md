@@ -16,7 +16,7 @@ Langman is a GUI for managing your JSON language files in a Laravel project.
 Begin by installing the package through Composer. Run the following command in your terminal:
 
 ```
-$ composer require themsaid/laravel-langman-gui
+$ composer require fahrim/teqrayt-langman-gui-update
 ```
 
 Once done, add the following line in your providers array of `config/app.php`:
